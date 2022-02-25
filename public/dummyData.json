@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "username": "Katie",
+    "average_sleep_hour": 8,
+    "average_exercise_hour": 2
+  },
+  {
+    "id": 2,
+    "username": "Lucy",
+    "average_sleep_hour": 6.5,
+    "average_exercise_hour": 1
+  },
+  {
+    "id": 3,
+    "username": "Steve",
+    "average_sleep_hour": 6,
+    "average_exercise_hour": 1
+  },
+  {
+    "id": 4,
+    "username": "Nancy",
+    "average_sleep_hour": 7,
+    "average_exercise_hour": 2
+  },
+  {
+    "id": 5,
+    "username": "Linda",
+    "average_sleep_hour": 7,
+    "average_exercise_hour": 1
+  },
+  {
+    "id": 6,
+    "username": "Fanny",
+    "average_sleep_hour": 6,
+    "average_exercise_hour": 0.5
+  },
+  {
+    "id": 7,
+    "username": "Mela",
+    "average_sleep_hour": 7.5,
+    "average_exercise_hour": 2
+  }
+]
